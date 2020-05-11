@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DeviceID</string>
+
+    <string name="enterprise_device_admin">Device ID</string>
+    <string name="admin_receiver_description">DeviceAdmin class</string>
+    <string name="activate_admin">Activate Admin</string>
+    <string name="deactivate_admin">Deactivate Admin</string>
+    <string name="activate_license">Activate License</string>
+    <string name="grant_permissions">Grant Permissions</string>
+
+</resources>
